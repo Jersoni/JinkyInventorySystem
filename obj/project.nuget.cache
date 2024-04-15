@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrZUjx/BRn7JjtX61DAN1hWgF3RUSNp2pzq7bJWWYoGwqAMMSZSKhn92yeCF+fxe/9si+26tAIlULFl4UQcXDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jerson\\Desktop\\JinkyInventorySystem\\JinkyInventorySystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerson\\.nuget\\packages\\realtaiizor\\3.8.0.5\\realtaiizor.3.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
